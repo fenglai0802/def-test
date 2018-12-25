@@ -1,0 +1,5 @@
+{
+  "name": "def-test",
+  "type": "iceworks",
+  "builder": "@ali/builder-iceworks"
+}
